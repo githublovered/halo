@@ -71,7 +71,7 @@ java -jar halo-latest.jar
 
 | 支付宝/微信/QQ  |
 | :------------: |
-| <img src="https://i.loli.net/2018/12/23/5c1f68ce9b884.png" width="200"/>  |
+
 
 ## 预览图
 
